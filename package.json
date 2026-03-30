@@ -1,0 +1,26 @@
+{
+    "author": "Dimitrios Vlachos",
+    "dependencies": {},
+    "keywords": [
+        "pebble-app"
+    ],
+    "name": "ana-digi-pro",
+    "pebble": {
+        "displayName": "Ana-Digi Pro",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "ea090884-2a25-4b5d-89fb-27f904ea4b0e",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "3.9.0"
+}
